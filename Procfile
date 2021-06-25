@@ -1,1 +1,1 @@
-web: serve . -l 3000
+web: serve . -l $PORT
